@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kenyan Delights</title>
-</head>
-<body>
+
     <h1>Kenyan Delights</h1>
 
     <h2>Pilau Beef</h2>
