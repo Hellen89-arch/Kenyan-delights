@@ -1,17 +1,27 @@
-## Kenyan Delights
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenyan Delights</title>
+</head>
+<body>
+    <h1>Kenyan Delights</h1>
 
-### Pilau Chicken
-![Pilau Chicken](https://github.com/Hellen89-arch/Kenyan-delights/raw/main/d9ef7551a17cc522a023ea418f2a459b.jpg)
-A flavorful dish of spiced rice and tender chicken, a favorite Kenyan meal.
+    <h2>Pilau Beef</h2>
+    <img src="https://github.com/Hellen89-arch/Kenyan-delights/blob/main/maxresdefault.jpg" alt="Pilau Beef with Potatoes" width="500">
+    <p>A flavorful dish of spiced rice and tender beef, often served with a side of kachumbari.</p>
 
-### Stew with Chapati
-![Stew with Chapati](https://github.com/Hellen89-arch/Kenyan-delights/raw/main/stock-photo-chapati-nyama-beef-stew-green-sukumawiki-kales-corianders-nhania-meals-dish-dinner-delicious-on-the-2168770897.jpg)
-Stew served with soft chapati, a perfect combination for a hearty meal.
+    <h2>Nyama Choma</h2>
+    <img src="https://github.com/Hellen89-arch/Kenyan-delights/blob/main/stock-photo-sharing-platter-of-a-traditional-kenyan-dish-nyama-choma-accompanied-by-kachumbari-salad-sukuma-1320191333.jpg" alt="Nyama Choma with Sides" width="500">
+    <p>Delicious grilled meat, traditionally served with kachumbari, ugali, or roasted potatoes.</p>
 
-### Nyama Choma
-![Nyama Choma](https://github.com/Hellen89-arch/Kenyan-delights/raw/main/stock-photo-indian-tandoori-chicken-chicken-legs-and-basmati-rice-1544009978.jpg)
-Delicious grilled meat, traditionally enjoyed with a side of vegetables or rice.
+    <h2>Stew with Chapati</h2>
+    <img src="https://github.com/Hellen89-arch/Kenyan-delights/raw/main/stock-photo-chapati-nyama-beef-stew-green-sukumawiki-kales-corianders-nhania-meals-dish-dinner-delicious-on-the-2168770897.jpg" alt="Stew with Chapati" width="500">
+    <p>A rich and hearty stew served with soft chapati, a favorite Kenyan meal.</p>
 
-### Samosa
-![Samosa](https://github.com/Hellen89-arch/Kenyan-delights/raw/main/stock-photo-samosas-plate-with-sauce-isolated-on-white-background-ramadan-fried-samosa-on-plate-closeup-2495250253.jpg)
-Crispy, golden samosas filled with savory fillings like meat or vegetables.
+    <h2>Samosa</h2>
+    <img src="https://github.com/Hellen89-arch/Kenyan-delights/raw/main/stock-photo-samosas-plate-with-sauce-isolated-on-white-background-ramadan-fried-samosa-on-plate-closeup-2495250253.jpg" alt="Samosa" width="500">
+    <p>Crispy, golden samosas filled with savory fillings like meat or vegetables.</p>
+</body>
+</html>
